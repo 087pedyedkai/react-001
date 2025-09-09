@@ -5,8 +5,8 @@ import StudyListComponent from './assignment/study';
 function App() {
   return (
     <>
-      <Govform />
       <StudyListComponent />
+      <Govform />
     </>
   );
 }
